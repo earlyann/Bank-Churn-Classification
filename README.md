@@ -3,7 +3,10 @@
 ## Overview
 This repository contains a binary classification model built to predict customer churn in the banking industry. The model is trained on the Bank Customer Churn dataset, which includes various customer attributes and whether they have churned or not.
 
-## Dataset
+## Dataset 
+
+https://www.kaggle.com/competitions/playground-series-s4e1/data & https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction
+
 The dataset includes the following attributes:
 - Customer ID: A unique identifier for each customer
 - Surname: The customer's surname or last name
